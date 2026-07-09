@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
 </p>
 
-*(I'll add React, Node.js, Express, and MongoDB once you've started learning them.)*
+
 
 ---
 
